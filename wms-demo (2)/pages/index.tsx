@@ -1,7 +1,9 @@
+import React from "react";
+
 export default function Home() {
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gray-100">
-      <h1 className="text-4xl font-bold text-blue-600">Chào mừng đến với phần mềm quản lý kho (WMS)</h1>
+    <div style={{ padding: "40px", fontFamily: "sans-serif" }}>
+      <h1>Hello from Next.js with TypeScript!</h1>
+      <p>This project is ready to deploy 🚀</p>
     </div>
   );
-}
