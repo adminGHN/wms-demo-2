@@ -1,5 +1,5 @@
 {
-  "name": "wms-demo",
+  "name": "wms-demo-2",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -7,14 +7,13 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "14.1.0",
+    "next": "13.5.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "tailwindcss": "^3.4.1"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.24",
-    "typescript": "^5.2.2"
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
   }
 }
